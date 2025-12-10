@@ -24,6 +24,7 @@
         </repository>
     </repositories>
 
+	
     <dependencies>
         <!-- Vaadin Dependencies -->
         <dependency>
