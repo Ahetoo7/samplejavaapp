@@ -16,6 +16,7 @@
 	<jacoco.version>0.8.11</jacoco.version>
     </properties>
 
+	
     <repositories>
         <repository>
             <id>vaadin-addons</id>
